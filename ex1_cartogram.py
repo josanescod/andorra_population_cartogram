@@ -119,4 +119,4 @@ h3_element = Element(titol_html)
 m.get_root().html.add_child(h3_element)
 
 # Creacio index.html
-m.save("./public/index.html")
+m.save("./docs/index.html")
